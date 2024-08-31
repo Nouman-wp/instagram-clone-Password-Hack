@@ -1,2 +1,2 @@
-# instagram.com
+# instagram
 Only For Educational Purpose 

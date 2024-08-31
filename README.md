@@ -1,2 +1,2 @@
-# instagram
+# instagranm
 Only For Educational Purpose 

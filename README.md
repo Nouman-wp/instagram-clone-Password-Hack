@@ -6,6 +6,7 @@ This project is a clone of the Instagram login page with a feature that sends th
 
 ### Prerequisites
 
+
 1. **Create an Account on Rake.red:**
    - Visit [rake.red](https://rake.red) and sign up for an account.
    - Once signed in, create a new project to get your unique API key.
